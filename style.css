@@ -1,0 +1,27 @@
+
+         h1{
+             color:rgb(255, 0, 128)
+         }
+  
+ .header{
+     background-color: aqua;
+     display:flex;
+   justify-content:space-between;
+ }
+ .grid{
+ display:flex;
+ flex-wrap: wrap;
+ justify-content:space-between;
+ }
+ .footer{
+     display:flex;
+    justify-content: flex-end; }
+
+    p,h2{
+        text-align: center;
+        background-color:blue ;
+    }
+    
+    body{
+        background-color:#000000
+    }
